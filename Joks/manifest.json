@@ -1,0 +1,20 @@
+{
+    "name":"Joks cracker",
+    "description":"Get joks every time",
+    "version":"0.0.1",
+    "manifest_version":3 ,
+    "background":{
+        "service_worker":"background.js"
+    },
+    "action":{
+        "default_popup":"index.html"
+    },
+
+    "icons":{
+        "16":"./pngwing.com.png"
+        "32":"./pngwing.com.png"
+        "16":"./pngwing.com.png"
+        
+    }
+
+}
